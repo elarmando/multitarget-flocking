@@ -1,0 +1,24 @@
+
+PARA CORRER LOS EXPERIMENTOS
+
+Los programas para correr los experimentos de la tesis se encuentran en la carpeta escenarios.
+Los archivos de los escenarios que se evaluaron en la tesis son los siguientes:
+
+El archivo "Escenario3" corresponde al experimento nombrado "Escenario 1" en la tesis
+El archivo "Escenario3_1_2" corresponde al experimento nombrado "Escenario 2" en la tesis
+El archivo "Escenario3_1" corresponde al experimento nombrado "Escenario 3" en la tesis
+El archivo "Escenario3_1_1" corresponde al experimento nombrado "Escenario 4" en la tesis
+
+Una vez terminada la ejecución el programa, se muestran dos ventanas con las gráficas de los resultados.
+El detalle de la simulación se almacena en un archivo con el mismo nombre del archivo que contiene el programa.
+El detalle de la simulación se almacena en carpeta donde está el proyecto.
+
+Para observar la simulación de los experimentos establezca la variable "mostrarSimulacion=true".
+***************************************************************************************************************
+
+
+SOBRE LAS LIBRERIAS
+Es necesario agregar las librerias que permiten crear las gráficas y las simulaciones en 3D. Los respectivos
+archivos .jar se encuentran en la carpeta "instalación de librerias". Los .dll se deben copiar a las carpetas
+"c:windows\system" y  "c:windows\system32" y sirven para los gráficos en 3D. Las simulaciones en 3D sólo sirven
+en windows.
